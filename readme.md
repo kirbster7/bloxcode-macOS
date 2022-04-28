@@ -1,6 +1,7 @@
 ![Bloxcode](./bloxcode-logo-inverted.png)
 
-Welcome to Bloxcode!
+Welcome to Bloxcode for Mac!
+
 
 Join the [Discord server](https://discord.gg/QHSfv3X8Pk) to get help, ask questions, and get updates.
 
