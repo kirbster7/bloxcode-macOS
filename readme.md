@@ -1,4 +1,4 @@
-![Bloxcode](./bloxcode-logo-inverted.png)
+![Bloxcode](./bloxcode-for-mac-logo-inverted.png)
 
 Welcome to Bloxcode for Mac!
 
