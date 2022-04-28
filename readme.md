@@ -1,7 +1,8 @@
 ![Bloxcode](./bloxcode-for-mac-logo-inverted.png)
 
 Welcome to Bloxcode for Mac!
-This is a fork of Bloxcode, ported to Apple's macOS
+
+This is a fork of Bloxcode, ported to Apple's macOS.
 
 
 Join the [Discord server](https://discord.gg/QHSfv3X8Pk) to get help, ask questions, and get updates.
